@@ -1,2 +1,2 @@
 # prem.  
-yang namanya gg.py ganti menjadi .ig.py soalnya nanti akan eror Secara otomatis terimakasih
+pertama lu update dulu install.py dengan menjalankan python install.py biar gak ada yang error
