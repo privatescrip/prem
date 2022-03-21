@@ -1,4 +1,5 @@
-# prem.  
+# prem.
+pkg update && upgrade  
 
 pkg install python
 
